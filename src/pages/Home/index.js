@@ -7,7 +7,7 @@ export default () => (
     
       <div className="container">
       <br></br>
-        <h1 className="title" >Welcome to website</h1>
+        <h1 className="title" >&nbsp;&nbsp;Welcome to website&nbsp;&nbsp;</h1>
         <br></br>
         <br></br>
         <br></br>

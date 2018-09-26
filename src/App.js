@@ -48,7 +48,7 @@ class App extends Component {
   }
   render() {
     return (
-      <div className="my-app">
+      <div >
       <nav className="navbar is-light" role="navigation" aria-label="main navigation">
           <div className="container">
             <div className="navbar-brand">
