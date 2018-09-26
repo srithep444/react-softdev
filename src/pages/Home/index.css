@@ -1,0 +1,14 @@
+.Bg {
+  text-align: center;
+  background: url(./f.jpg) no-repeat center center fixed;  
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+.page-title {
+  color:white ;
+ }
+
+ .title {
+  color:white ;
+ }
