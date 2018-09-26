@@ -6,9 +6,16 @@
   position: absolute;
 }
 .page-title {
-  color:white ;
+    color:black;
  }
 
  .title {
-  color:white ;
+  display: inline;
+  width: 2.2em;
+  font-size: 2.2em;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin: 0.3em;
+  user-select: none;
+  color: white;
+  background: pink;
  }
